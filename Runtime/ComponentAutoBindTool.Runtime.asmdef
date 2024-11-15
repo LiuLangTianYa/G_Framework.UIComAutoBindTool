@@ -1,0 +1,17 @@
+{
+    "name": "ComponentAutoBindTool.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:214cd196e79b4d84eada8d7065ad6a22",
+        "GUID:cfeff8c22e43d1346abcff1e578a2892"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

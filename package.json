@@ -1,0 +1,23 @@
+{
+  "name": "com.G_Framework.UIComAutoBindTool",
+  "displayName": "G_Framework UIComAutoBindTool",
+  "category": "G_Framework",
+  "description": "G_Framework UIComAutoBindTool Component",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "keywords": [
+    "G_Framework"
+  ],
+  "repository": {
+    "name": "com.G_Framework.UIComAutoBindTool",
+    "url": "https://gitee.com/TianYaLiuLang/uicom-auto-bind-tool.git",
+    "type": "git"
+  },
+  "author": {
+    "name": "GYC",
+    "email": "",
+    "url": ""
+  },
+  "dependencies": {
+  }
+}
